@@ -1,5 +1,14 @@
 # Quora_question_pair_similarity
+
+![Quora_question_pair_similarity](https://user-images.githubusercontent.com/25454660/62774526-90f66780-bac2-11e9-95cf-5b31d3244537.jpeg)
+
 case study of Quora question pair similarity problem
+
+### Data Overview
+- Data will be in a file Train.csv 
+- Train.csv contains 5 columns : qid1, qid2, question1, question2, is_duplicate 
+- Size of Train.csv - 60MB 
+- Number of rows in Train.csv = 404,290
 
 ### Problem Statement
 
