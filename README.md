@@ -1,4 +1,4 @@
-# Quora_question_pair_similarity
+# Quora question pair similarity
 
 ![Quora_question_pair_similarity](https://user-images.githubusercontent.com/25454660/62774526-90f66780-bac2-11e9-95cf-5b31d3244537.jpeg)
 
